@@ -26,4 +26,4 @@ Add your free Groq API key in `app.py`:
 `os.environ["GROQ_API_KEY"] = "YOUR_API_KEY_HERE"`
 
 ---
-*Built by [Your Name]*
+*Built by [Shaik Adnan Tousef]*
